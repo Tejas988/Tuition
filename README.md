@@ -5,11 +5,25 @@ Login can be done using email and google with verification sent to email.
 
 Assignments are scheduled using cron-job in backend. Material and chat are all saved in firebase. 
 
-### Backend Link: <a href="https://github.com/Vatsalsoni13/Tuition_Backend">Link</a>
+### Backend Link: <a href="https://github.com/Tejas988/Tuition_Backend">Link</a>
 # Technology: 
 <h3>React Native, Firebase, MongoDB</h3>
 
-# Few Images:
+# Web App Images:
+
+
+<img src="https://assets.devfolio.co/hackathons/6bc23b6d50694e77b998d232e14febc8/projects/ba089814c64e4f1c8e470f33381341fa/picl25osobre.png">
+
+<img src="https://assets.devfolio.co/hackathons/6bc23b6d50694e77b998d232e14febc8/projects/ba089814c64e4f1c8e470f33381341fa/picb0l1es6ie.jpeg">
+
+<img src="https://assets.devfolio.co/hackathons/6bc23b6d50694e77b998d232e14febc8/projects/ba089814c64e4f1c8e470f33381341fa/picokul2y1vz.png">
+
+<img src="https://assets.devfolio.co/hackathons/6bc23b6d50694e77b998d232e14febc8/projects/ba089814c64e4f1c8e470f33381341fa/picbxhqkxlyd.jpeg">
+
+<img src="https://assets.devfolio.co/hackathons/6bc23b6d50694e77b998d232e14febc8/projects/ba089814c64e4f1c8e470f33381341fa/picqj3l854sf.jpeg">
+
+# Mobile App Images:
+
 <img height="700" src="./Readme_Images/Intro.png">
 
 <img height="700" src="./Readme_Images/Welcome Page.png">
@@ -27,5 +41,3 @@ Assignments are scheduled using cron-job in backend. Material and chat are all s
 <img height="700" src="./Readme_Images/StudentHome.png">
 
 <img height="700" src="./Readme_Images/SearchBatch.png">
-
-<img height="700" src="./Readme_Images/BatchInfo.png">
